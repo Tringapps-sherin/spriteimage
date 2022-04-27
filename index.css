@@ -1,0 +1,35 @@
+
+    #fb{
+        width: 50px;
+        height: 38px;
+        background: url(spriteimg.png) 5px 10px;
+}
+   .h{
+    text-align: center;
+    color: green;
+   }
+   #tw{
+    width: 50px;
+    height: 35px;
+    background: url(spriteimg.png) 45px 10px;
+   }
+   #in{
+    width: 50px;
+    height: 40px;
+    background: url(spriteimg.png) -110px 10px;
+   }
+   #icon{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    width: 300px;
+    margin-top: 50px;
+
+   }
+   body{
+       background-color: skyblue;
+       justify-content: center;
+       align-items: center;
+       display: flex;
+       flex-direction: column;
+   }
